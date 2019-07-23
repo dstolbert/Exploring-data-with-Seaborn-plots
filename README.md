@@ -1,1 +1,1 @@
-# Exploring-date-with-Seaborn-plots
+# Exploring-data-with-Seaborn-plots
